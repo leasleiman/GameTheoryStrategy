@@ -1,5 +1,5 @@
-@author: Lea
-"""
+#author: Lea
+#"""
 
 #Name: Lea Sleiman
 #FileName: gameTheory
